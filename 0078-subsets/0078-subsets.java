@@ -10,18 +10,18 @@ class Solution {
         return allSubsets;
     }
 
-    private void backtrack(int[] nums, int index,List<Integer> current,List<List<Integer>> allSubsets) {
+    private void backtrack(int[] nums, int i,List<Integer> current,List<List<Integer>> allSubsets) {
 
-        if (index == nums.length) {
+        if (i== nums.length) {
             allSubsets.add(new ArrayList<>(current));
             return;
         }
 
-        current.add(nums[index]);
-        backtrack(nums, index + 1, current, allSubsets);
+        current.add(nums[i]);
+        backtrack(nums, i + 1, current, allSubsets);
 
         current.remove(current.size() - 1);
 
-        backtrack(nums, index + 1, current, allSubsets);
+        backtrack(nums, i + 1, current, allSubsets);
     }
 }
