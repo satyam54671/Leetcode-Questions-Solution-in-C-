@@ -7,8 +7,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
