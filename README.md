@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Dynamic Programming
@@ -13,4 +14,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0075-sort-colors/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
