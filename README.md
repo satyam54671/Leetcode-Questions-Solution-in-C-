@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
