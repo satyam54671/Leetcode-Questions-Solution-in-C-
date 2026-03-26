@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0724-find-pivot-index](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0724-find-pivot-index/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -28,4 +29,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
