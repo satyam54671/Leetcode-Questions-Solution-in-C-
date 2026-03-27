@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0075-sort-colors/) | Medium |
+| [0344-reverse-string](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,4 +34,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0724-find-pivot-index/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
