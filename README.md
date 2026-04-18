@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0724-find-pivot-index/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,10 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0075-sort-colors/) | Medium |
 | [0344-reverse-string](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0344-reverse-string/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0075-sort-colors/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/0344-reverse-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyam54671/Leetcode-Questions-Solution-in-C-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 <!---LeetCode Topics End-->
